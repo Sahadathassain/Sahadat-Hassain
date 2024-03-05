@@ -1,4 +1,4 @@
-# Sahadat-Hossain
+# Sahadat-Hossain/READMD.md
 <img width="1000" height="" src="https://i.ibb.co/r41jn6V/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png">
 
 ## Hi <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji> I am <span style="color:#6ee5f5 ">Sahadat Hossain</span>
@@ -13,7 +13,7 @@
 
 ### <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);">Connect With Me</span> 📲
 
-[![Twitter](https://skillicons.dev/icons?i=twitter,instagram,github)](https://skillicons.dev)
+[![Twitter](https://skillicons.dev/icons?i=linkedin,instagram,github)](https://skillicons.dev)
 
 ### <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);">Languages & Tools <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="15" height="15"></span>
 
