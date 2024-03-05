@@ -2,7 +2,7 @@
 My repository
 <img width="1000" height="" src="https://i.ibb.co/f2BvXyj/Linked-In-Banner.png">
 
-## Hi <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji> I am <span style="color:#6ee5f5 ">Rakib</span>
+## Hi <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji> I am <span style="color:#6ee5f5 ">Sahadat Hossain</span>
 
 ### <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);">About Me </span>👨‍💼
 
