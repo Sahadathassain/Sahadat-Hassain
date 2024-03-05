@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 1px 1px 2px #6ee5f5;">ReactJs</span>
 - 🌱 I’m currently learning <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 0.5px 0.5px 1.5px #6ee5f5;">Next Js & Node Js</span>
 - 💬 Ask me about <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 0.5px 0.5px 1.5px #6ee5f5;">React Js, Javascript, Tailwind Css etc.</span>
-- 📫 How to reach me: 📩 <a href="gmail:sahadathossin164109@gmail.com" style="color: #6ee5f5; text-decoration: none; cursor: pointer; background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 0.5px 0.5px 1.5px #6ee5f5;">barkatullah%85464@gmail.com</a>
+- 📫 How to reach me: 📩 <a href="gmail:sahadathossin164109@gmail.com" style="color: #6ee5f5; text-decoration: none; cursor: pointer; background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 0.5px 0.5px 1.5px #6ee5f5;">sahadathossin164109@gmail.com</a>
 - ⚡ Fun fact: I once solved a coding challenge while [ 🥴 insert amusing or unusual scenario].
 
 ### <span style="background: linear-gradient(45deg, #6ee5f5, #4A90E2); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);">Connect With Me</span> 📲
